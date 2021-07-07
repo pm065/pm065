@@ -6,12 +6,11 @@
 </a>
 <br>
 
-[![pinned](https://github-readme-stats.vercel.app/api/pin/?username=pm065&repo=CosyModpack)](https://github.com/pm065/CosyModpack)
 [![pinned](https://github-readme-stats.vercel.app/api/pin/?username=pm065&repo=RepurposedRepurposedStructures)](https://github.com/pm065/RepurposedRepurposedStructures)
 
 Hello! I do stuff or something.
 
-I am a lover of modded Minecraft who is currently working on Arcane Virtue, an expert modpack focused on magical arts.
+I am a lover of modded Minecraft who is currently working on Arcane Virtue, an expert modpack focused on magical arts. I hope to 
 
 I also like to make datapacks, which you can see in Repurposed Repurposed Structures.
 
