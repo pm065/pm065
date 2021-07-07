@@ -10,7 +10,7 @@
 
 Hello! I do stuff or something.
 
-I am a lover of modded Minecraft who is currently working on Arcane Virtue, an expert modpack focused on magical arts. I hope to 
+I am a lover of modded Minecraft who is currently working on Arcane Virtue, an expert modpack focused on magical arts. I hope to
 
 I also like to make datapacks, which you can see in Repurposed Repurposed Structures.
 
