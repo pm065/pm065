@@ -11,10 +11,7 @@
 
 Hello! I do stuff or something.
 
-I am a lover of modded Minecraft who is currently working on two modpacks.
-
-- Cosy, a vanilla+ modpack with a little more
-- Arcane Virtue, an expert modpack focused on magical arts
+I am a lover of modded Minecraft who is currently working on Arcane Virtue, an expert modpack focused on magical arts.
 
 I also like to make datapacks, which you can see in Repurposed Repurposed Structures.
 
